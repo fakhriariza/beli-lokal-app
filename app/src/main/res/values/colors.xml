@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="menu_background">#153462</color>
+    <color name="orange">#FEB139</color>
+    <color name="color_background">#F7F6F6</color>
+    <color name="stroke_search">#8B8B8B</color>
+    <color name="text_black">#1C1C1C</color>
+    <color name="blue_category">#007DFE</color>
+    <color name="grey_category">#B3B3B3</color>
+    <color name="red">#D82B14</color>
+    <color name="grey_pic">#D9D9D9</color>
+
+</resources>
